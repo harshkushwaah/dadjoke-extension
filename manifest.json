@@ -1,0 +1,19 @@
+{
+    "name" : "Knock-Knock Jokes",
+    "version" : "1.0",
+    "description" : "Harsh's best Drunk Knock-Knock Jokes",
+    "author" : "Harsh Kushwah",
+    "manifest_version" : 2,
+    "browser_action" : {
+        "default_icon" : "smile.png",
+        "default_popup" : "popup.html"
+    },
+    "icons" : {
+        "128" : "smile.png",
+        "64" : "smile.png",
+        "32" : "smile.png"
+    },
+    "permissions" : [
+        "activeTab"
+    ]
+}
