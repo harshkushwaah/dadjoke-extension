@@ -1,7 +1,7 @@
-# DAD JOKE CHROME EXTENTION
+# DAD JOKE CHROME EXTENSION
 
-### HOW TO INSTALL THE EXTENTION FROM A ZIP FILE
-1. Download and unpack the DAD-JOKE Extention ZIP file to a directory of your choice.
+### HOW TO INSTALL THE EXTENISON FROM A ZIP FILE
+1. Download and unpack the DAD-JOKE Extension ZIP file to a directory of your choice.
 
 2. In Chrome browser, go to **chrome://extensions**
 
